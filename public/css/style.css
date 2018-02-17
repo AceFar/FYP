@@ -1,0 +1,27 @@
+body{
+	background: linear-gradient(to bottom, #ff6600 0%, #ffcc66 100%);
+	background-repeat: no-repeat;
+}
+.navbar{
+	background:black;
+}
+ .jumbotron h1{
+ 	font-weight: bold;
+     color: white;
+     text-align: center;
+     /*text-shadow: 2px 2px 5px red;*/
+     /*font-weight: bold;*/
+ }
+ .jumbotron p{
+ 	color:white;
+ 	font-weight:bold;
+ 	text-shadow: 2px 2px 5px black;
+ }
+.jumbotron {
+    background-image: url("../image/books.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body-div{
+	height: 600px;
+}
